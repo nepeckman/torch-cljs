@@ -1,3 +1,4 @@
+Moved to [aviv](https://github.com/nepeckman/aviv)
 # torch-cljs
 A simple classpath manager for lumo ClojureScript projects.
 
